@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817814652954",
+    "project_id": "alilo-d3974",
+    "storage_bucket": "alilo-d3974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817814652954:android:dab66af9e18981356ae9a3",
+        "android_client_info": {
+          "package_name": "com.example.project_final_ali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817814652954-qejsmjvgf596i3b7h3d18fd0p13lauq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPMwZ3iXcdb8C_b4MZxO_UCh4l9LZ9lYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817814652954-qejsmjvgf596i3b7h3d18fd0p13lauq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

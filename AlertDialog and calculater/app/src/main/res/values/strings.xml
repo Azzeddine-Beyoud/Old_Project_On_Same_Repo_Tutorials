@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alert Dialog</string>
+    <string name="your_feedback">Our feedback</string>
+    <string name="thank_you_for_your_feedback">Good job dear</string>
+    <string name="positive_button">Yes</string>
+    <string name="negative_button">No</string>
+    <string name="result">Result</string>
+    <string name="sum">Sum</string>
+    <string name="mult">Mult</string>
+    <string name="num1">Num1</string>
+    <string name="num2">Num2</string>
+</resources>

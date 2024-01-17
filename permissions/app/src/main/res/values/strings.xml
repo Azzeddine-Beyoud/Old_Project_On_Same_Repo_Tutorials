@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">permissions</string>
+    <string name="name_email">Name/Email:</string>
+    <string name="password">Password:</string>
+    <string name="sing">sing</string>
+    <string name="login">login</string>
+    <string name="find_my_serves">FIND MY SERVES</string>
+    <string name="sing_up">sing up</string>
+    <string name="we_find_the_best_for_you">WE FIND THE BEST FOR YOU</string>
+    <string name="log_in">log in</string>
+    <string name="continue_as_guest">CONTINUE AS GUEST</string>
+    <string name="todo">TODO</string>
+</resources>

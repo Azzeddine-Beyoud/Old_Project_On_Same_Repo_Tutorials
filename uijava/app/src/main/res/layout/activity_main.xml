@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/resultv"
+        android:layout_width="153dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="84dp"
+        android:gravity="center"
+        android:text="@string/result"
+        app:layout_constraintBottom_toTopOf="@+id/b1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.457"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.487" />
+
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="clickb1"
+        android:text="@string/my_button"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.939" />
+
+    <EditText
+        android:id="@+id/nb1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="92dp"
+        android:ems="10"
+        android:hint="@string/number1"
+        android:inputType="number"
+        app:layout_constraintBottom_toTopOf="@+id/b1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/resultv"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <EditText
+        android:id="@+id/nb2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="52dp"
+        android:ems="10"
+        android:hint="@string/number2"
+        android:inputType="number"
+        app:layout_constraintBottom_toTopOf="@+id/b1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nb1"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="138dp"
+        android:layout_height="123dp"
+        app:layout_constraintBottom_toTopOf="@+id/viewopp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/add"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/add" />
+
+        <RadioButton
+            android:id="@+id/sub"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sub" />
+
+        <RadioButton
+            android:id="@+id/mult"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mult" />
+
+        <RadioButton
+            android:id="@+id/div"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/div" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/viewopp"
+        android:layout_width="177dp"
+        android:layout_height="77dp"
+        android:layout_marginBottom="48dp"
+        android:gravity="center"
+        android:scrollbarSize="4dp"
+        android:text="TextView"
+        android:textSize="23dp"
+        app:layout_constraintBottom_toTopOf="@+id/resultv"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.979"
+        tools:layout_editor_absoluteX="107dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

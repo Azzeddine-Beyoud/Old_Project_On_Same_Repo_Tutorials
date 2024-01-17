@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMS app</string>
+    <string name="phonenumber">phonen umber</string>
+    <string name="message">Message</string>
+</resources>

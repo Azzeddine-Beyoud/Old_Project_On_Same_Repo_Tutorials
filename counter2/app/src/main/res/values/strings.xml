@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">counter</string>
+    <string name="conter">conter</string>
+    <string name="finsh">finsh</string>
+    <string name="start">start</string>
+</resources>

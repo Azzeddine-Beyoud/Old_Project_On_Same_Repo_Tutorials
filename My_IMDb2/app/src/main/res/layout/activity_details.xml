@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".View.DetailsActivity"
+    android:focusable="true"
+    android:paddingTop="40sp"
+    android:paddingBottom="7sp"
+    android:paddingLeft="10sp"
+    android:paddingRight="10sp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:paddingBottom="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:srcCompat="@tools:sample/avatars" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:paddingBottom="10sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/Titlefilm"
+                    style="@style/TextAppearance.AppCompat.Body2"
+                    android:layout_width="305dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="Titlefilm"
+                    android:textColor="@android:color/holo_blue_dark"
+                    android:textSize="28sp" />
+
+                <TextView
+                    android:id="@+id/yearfilm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="yearfilm"
+                    android:textSize="18sp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/genrefilm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="20sp"
+                android:width="1dp"
+                android:gravity="center"
+                android:text="genrefilm"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/infofilm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:width="1dp"
+                android:gravity="center_horizontal"
+                android:text="infofilm"
+                android:textSize="24sp" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

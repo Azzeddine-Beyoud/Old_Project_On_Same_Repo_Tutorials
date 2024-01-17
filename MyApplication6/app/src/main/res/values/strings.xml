@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="back"><![CDATA[<-back]]></string>
+    <string name="next"><![CDATA[next->]]></string>
+    <string name="sing">SING</string>
+    <string name="password">PASSWORD:</string>
+    <string name="user">USER :</string>
+</resources>

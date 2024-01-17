@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "56430691486",
+    "firebase_url": "https://craftasman.firebaseio.com",
+    "project_id": "craftasman",
+    "storage_bucket": "craftasman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56430691486:android:9f79939669bac7d046e78f",
+        "android_client_info": {
+          "package_name": "com.example.finalappmvc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56430691486-tjjg6pu66f8811ta7svefbmlfp2amt75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeVAK4HnCX7ebjbtuigQkd2uNpa43-OEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56430691486-tjjg6pu66f8811ta7svefbmlfp2amt75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

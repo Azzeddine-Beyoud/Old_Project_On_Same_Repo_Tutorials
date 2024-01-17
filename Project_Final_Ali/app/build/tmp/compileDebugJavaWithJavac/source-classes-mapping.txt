@@ -1,0 +1,92 @@
+com/example/project_final_ali/ProfileFragment.java
+ com.example.project_final_ali.ProfileFragment
+ com.example.project_final_ali.ProfileFragment$1
+com/example/project_final_ali/Controller/UtilsUi.java
+ com.example.project_final_ali.Controller.UtilsUi
+com/example/project_final_ali/TerminerFragment.java
+ com.example.project_final_ali.TerminerFragment
+com/example/project_final_ali/Controller/DataBaseHandler.java
+ com.example.project_final_ali.Controller.DataBaseHandler
+com/example/project_final_ali/DataPickerFragment.java
+ com.example.project_final_ali.DataPickerFragment
+com/example/project_final_ali/Module/User.java
+ com.example.project_final_ali.Module.User
+com/example/project_final_ali/Controller/AdapterLocal.java
+ com.example.project_final_ali.Controller.AdapterLocal
+ com.example.project_final_ali.Controller.AdapterLocal$MyViewHolder
+com/example/project_final_ali/PhoneCall.java
+ com.example.project_final_ali.PhoneCall
+ com.example.project_final_ali.PhoneCall$1
+com/example/project_final_ali/Ui/ProfileCommand.java
+ com.example.project_final_ali.Ui.ProfileCommand
+ com.example.project_final_ali.Ui.ProfileCommand$1
+ com.example.project_final_ali.Ui.ProfileCommand$2
+ com.example.project_final_ali.Ui.ProfileCommand$3
+ com.example.project_final_ali.Ui.ProfileCommand$4
+com/example/project_final_ali/Ui/RegisterActivity.java
+ com.example.project_final_ali.Ui.RegisterActivity
+ com.example.project_final_ali.Ui.RegisterActivity$1
+ com.example.project_final_ali.Ui.RegisterActivity$2
+ com.example.project_final_ali.Ui.RegisterActivity$3
+ com.example.project_final_ali.Ui.RegisterActivity$4
+ com.example.project_final_ali.Ui.RegisterActivity$4$1
+com/example/project_final_ali/Controller/AdapterClients.java
+ com.example.project_final_ali.Controller.AdapterClients
+ com.example.project_final_ali.Controller.AdapterClients$ClientHolder
+ com.example.project_final_ali.Controller.AdapterClients$ClientHolder$1
+ com.example.project_final_ali.Controller.AdapterClients$OnItemClickListener
+com/example/project_final_ali/Module/Client.java
+ com.example.project_final_ali.Module.Client
+com/example/project_final_ali/Halper/MyButtonClickListener.java
+ com.example.project_final_ali.Halper.MyButtonClickListener
+com/example/project_final_ali/HomeFragment.java
+ com.example.project_final_ali.HomeFragment
+ com.example.project_final_ali.HomeFragment$1
+ com.example.project_final_ali.HomeFragment$2
+ com.example.project_final_ali.HomeFragment$2$1
+ com.example.project_final_ali.HomeFragment$2$2
+ com.example.project_final_ali.HomeFragment$3
+ com.example.project_final_ali.HomeFragment$4
+ com.example.project_final_ali.HomeFragment$WrapContentLinearLayoutManager
+com/example/project_final_ali/Halper/MySwipeHelper.java
+ com.example.project_final_ali.Halper.MySwipeHelper
+ com.example.project_final_ali.Halper.MySwipeHelper$1
+ com.example.project_final_ali.Halper.MySwipeHelper$2
+ com.example.project_final_ali.Halper.MySwipeHelper$3
+ com.example.project_final_ali.Halper.MySwipeHelper$MyButton
+com/example/project_final_ali/BuildConfig.java
+ com.example.project_final_ali.BuildConfig
+com/example/project_final_ali/UtilsSQL/UtilSQL.java
+ com.example.project_final_ali.UtilsSQL.UtilSQL
+com/example/project_final_ali/OffLineFragment.java
+ com.example.project_final_ali.OffLineFragment
+ com.example.project_final_ali.OffLineFragment$1
+ com.example.project_final_ali.OffLineFragment$1$1
+ com.example.project_final_ali.OffLineFragment$1$2
+ com.example.project_final_ali.OffLineFragment$2
+ com.example.project_final_ali.OffLineFragment$WrapContentLinearLayoutManager
+com/example/project_final_ali/Ui/CommandActivity.java
+ com.example.project_final_ali.Ui.CommandActivity
+ com.example.project_final_ali.Ui.CommandActivity$1
+ com.example.project_final_ali.Ui.CommandActivity$2
+ com.example.project_final_ali.Ui.CommandActivity$3
+ com.example.project_final_ali.Ui.CommandActivity$4
+ com.example.project_final_ali.Ui.CommandActivity$5
+ com.example.project_final_ali.Ui.CommandActivity$6
+ com.example.project_final_ali.Ui.CommandActivity$7
+ com.example.project_final_ali.Ui.CommandActivity$7$1
+ com.example.project_final_ali.Ui.CommandActivity$7$2
+com/example/project_final_ali/Ui/EditCommand.java
+ com.example.project_final_ali.Ui.EditCommand
+ com.example.project_final_ali.Ui.EditCommand$1
+ com.example.project_final_ali.Ui.EditCommand$2
+ com.example.project_final_ali.Ui.EditCommand$3
+ com.example.project_final_ali.Ui.EditCommand$3$1
+com/example/project_final_ali/MainActivity.java
+ com.example.project_final_ali.MainActivity
+ com.example.project_final_ali.MainActivity$1
+com/example/project_final_ali/Ui/LoginActivity.java
+ com.example.project_final_ali.Ui.LoginActivity
+ com.example.project_final_ali.Ui.LoginActivity$1
+ com.example.project_final_ali.Ui.LoginActivity$2
+ com.example.project_final_ali.Ui.LoginActivity$3

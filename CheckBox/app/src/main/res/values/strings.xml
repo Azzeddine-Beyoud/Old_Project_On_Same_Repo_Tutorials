@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+
+    <string name="result1">Result</string>
+    <string name="java">java</string>
+    <string name="python">python</string>
+    <string name="php">php</string>
+    <string name="flatter">flatter</string>
+    <string name="button">Show</string>
+</resources>

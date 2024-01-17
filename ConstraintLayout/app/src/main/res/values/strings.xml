@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="button">Button</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="n1">N1:</string>
+    <string name="n2">N2:</string>
+    <string name="result">result</string>
+    <string name="sum">sum</string>
+</resources>

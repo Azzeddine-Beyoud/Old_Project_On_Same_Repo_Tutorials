@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Project_Final_Ali</string>
+    <string-array name="numbers">
+        <item>Enter_Your_Job</item>
+        <item>Magasin</item>
+        <item>atelier</item>
+
+    </string-array>
+
+    <string name="Magasin">Magasin</string>
+    <string name="Atelier"> Atelier</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
